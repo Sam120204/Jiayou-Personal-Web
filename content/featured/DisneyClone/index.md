@@ -1,17 +1,19 @@
 ---
 date: '2'
-title: 'Disney+ Clone'
-cover: './disneyclone.png'
-github: 'https://github.com/yashitanamdeo/Disney-plus-Clone'
-external: 'https://disney-clone-83e44.web.app/'
+title: 'Chess Game in C++'
+cover: 'Chess.png'
+github: 'https://github.com/Sam120204/Chess_Game'
 tech:
-  - ReactJS
-  - Redux
-  - Styled Components
-  - Firebase
+  - C++
+  - Makefile
 showInProjects: true
 ---
 
-Built Disney+ Clone with React JS with Google account's Sign in feature. Styled to get 15+ movies made by Disney; clickable images to get details of the specific movie.
+- Built a C++ Chess game with a group of three
+- Mainly being in charge of implementing all the chess pieces
+  - Rook, King, Pawn, Queen, Bishop and Knight with their corresponding moving strategies
+  - Implemented Special Chess Moves: en passant, promotion and castling strategies
+  - Achived checkmate and stalemate mechanics
+- Utilizd Greedy algorithm and Reinforcement Learning strategy
 
-Inspired by Clever Programmer's [Youtube Channel](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).
+Collaborate with my friends: Ken Wu & Tim Li

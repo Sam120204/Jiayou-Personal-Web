@@ -11,12 +11,12 @@ skills:
   - Mentoring
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+Hello! I'm Jiayou (Sam) Zhong, from Wuhan, also known as the River City located in the central part of China.
 
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
+I'm a creative and goal-oriented individual, known for punctuality, dedication, and strong ethics. With high energy and sharp communication skills, I excel in organization and meticulous attention to detail.
 
-I am pursuing my Bachelors from [SVVV, Indore](https://www.svvv.edu.in/) in Computer Science and Engineering (2018-2022) my current GPA is [3.7]() out of 4.
+I am pursuing my Bachelor from [University of Waterloo](https://cs.uwaterloo.ca/) in Computer Science between 2022 and 2026 in Canada.
 
-I am a member of [Developer Student Club - SVVV](https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/) and have also been awarded 75% Merit Scholarship(Top 10%) by my college.
+I am also a member of [Fintech Club](https://wlufintech.com/).
 
 Here are a few of the other activities that I love to do!

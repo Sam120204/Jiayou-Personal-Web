@@ -1,13 +1,12 @@
 ---
-date: '2021-06-11'
-title: 'Campus Ambassador Intern'
-company: 'International MUN (IMUN)'
+date: '2023-05-11'
+title: 'Computer Science Instructor'
+company: 'Uforse Education'
 location: remote
-range: 'June 2021 - July 2021'
-url: 'https://www.internationalmun.org/'
+range: 'May 2023 - Present'
+url: 'https://uforse.com/en'
 ---
 
-- Promoted IMUN Online Conferences in different schools/universities and got 10+ registrations.
-- Informed how MUNs enhance - Negotiation, Diplomacy, Leadership, etc.
-- Achieved Brand Ambassador title for increasing the sales of the organization by 10% and creating brand presence.
-- View [OFFER LETTER](https://drive.google.com/file/d/1q-rr54_-9znx-m1PvEDTYkbu5yGy0miK/view?usp=sharing)
+- Guided and mentored several high school students using an online teaching platform, which aims to enhance their understanding of fundamental computer science concepts, algorithms, and to prepare for computing contests.
+- Applied detailed instructional strategies, emphasizing key topics like data types and key algorithms using the Python language. Ensured thorough comprehension by offering detailed code walkthroughs and consistent feedback.
+- Achieved demonstrable results as students showcased significant improvement in academic performance, notably securing positions within the top 25% for the CCC competition (junior division).

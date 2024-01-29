@@ -1,16 +1,12 @@
 ---
 date: '2021-04-18'
-title: 'Whatsapp Chat Analysis'
-github: 'https://github.com/yashitanamdeo/WhatsApp-Chat-Analysis'
-external: 'https://github.com/yashitanamdeo/WhatsApp-Chat-Analysis/blob/main/WhatsApp%20Chat%20Analysis.ipynb'
+title: 'Stock market Prediction'
+github: 'https://github.com/Sam120204/Stock_Market_Analysis_and_Forecast_with_ML'
 tech:
+  - Jupyter Notebook
   - Python
-  - Regex
-  - Numpy
-  - Pandas
-  - Matplotlib
 company: ''
 showInProjects: true
 ---
 
-Demonstrated analysis of WhatsApp chat; presented organized messages sent per person in 2 creative ways. Collated stats into visuals; organized emoji, media, and links sent count.
+Using Colaboratory to predict stock market, such as AAPL with machine learning and Python

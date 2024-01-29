@@ -1,16 +1,12 @@
 ---
-date: '2021-05-15'
-title: 'Covid-19 Vaccine Analysis'
-github: 'https://github.com/yashitanamdeo/Covid19_Vaccine_Analysis'
-external: 'https://github.com/yashitanamdeo/Covid19_Vaccine_Analysis/blob/main/Covid19_Vaccine_Analysis.ipynb'
+date: '2023-08'
+title: 'Sudoku Solver'
+github: 'https://github.com/Sam120204/Sudoku-Solver'
 tech:
   - Python
-  - Numpy
-  - Pandas
-  - Matplotlib
-  - Seaborn
+  - PyGame
 company: ''
 showInProjects: true
 ---
 
-Analyzed how many vaccines each country is using to fight covid-19.
+Implementing the backtracking algorithm to solve the Sudoku game
