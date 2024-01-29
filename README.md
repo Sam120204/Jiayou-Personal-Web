@@ -1,18 +1,1 @@
-<div align="center">
-  <img alt="Logo" src="https://github.com/yashitanamdeo/yashitanamdeo.github.io/blob/source/src/images/logo.png" width="100" />
-</div>
-<h1 align="center">
-  Portfolio Website Version 1
-</h1>
-<p align="center">
-  The first iteration of <a href="jiayouz.vercel.app/" target="_blank">Yashita Namdeo's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>
-</p>
-<!-- <p align="center">
-  Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
-</p> -->
-
-<div align="center">
-  <img alt="Demo" src="https://github.com/yashitanamdeo/yashitanamdeo.github.io/blob/source/src/images/demo.png" />
-</div>
-
+<img width="1501" alt="Screenshot 2024-01-29 at 5 20 40 PM" src="https://github.com/Sam120204/Jiayou.github.io/assets/75916625/1799e014-ec52-49a7-b59e-cf950758cfae">
