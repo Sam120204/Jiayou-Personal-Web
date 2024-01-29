@@ -1,11 +1,10 @@
 ---
-date: '2021-06-01'
+date: '2023-06-01'
 title: 'Fruit Ninja'
-github: 'https://github.com/yashitanamdeo/Voter-Registration-WebApp'
-external: 'https://yashitanamdeo.github.io/Voter-Registration-WebApp/'
+github: 'https://github.com/Sam120204/Unity3D-Game-FruitNinga'
 tech:
-  - HTML
-  - CSS
+  - Unity 3D
+  - C#
 company: ''
 showInProjects: true
 ---
