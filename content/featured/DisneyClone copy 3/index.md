@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'MIPS Assembler in C++'
-cover: '2.png'
+cover: '22.png'
 github: 'https://github.com/Sam120204/MIPS_Assembler'
 tech:
   - C++
