@@ -93,7 +93,8 @@ const Footer = () => {
                   href={url}
                   target="_blank"
                   rel="nofollow noopener noreferrer"
-                  aria-label={name}>
+                  aria-label={name}
+                >
                   <FormattedIcon name={name} />
                 </StyledSocialLink>
               </li>
@@ -104,10 +105,11 @@ const Footer = () => {
         <StyledGitHubLink
           href="https://github.com/bchiang7/v4"
           target="_blank"
-          rel="nofollow noopener noreferrer">
+          rel="nofollow noopener noreferrer"
+        >
           <div>
             Designed &amp; Built by Brittany Chiang<br></br>
-            Revised by Yashita Namdeo
+            Revised by Jiayou Zhong
           </div>
 
           {githubInfo.stars && githubInfo.forks && (
