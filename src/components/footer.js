@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import PropTypes from 'prop-types';
 import { FormattedIcon } from '@components/icons';
 import { socialMedia } from '@config';
 import styled from 'styled-components';
@@ -44,24 +43,9 @@ const StyledGitHubLink = styled.a`
   color: ${colors.lightSlate};
   padding: 10px;
 `;
-const StyledGitHubInfo = styled.div`
-  margin-top: 10px;
-
-  & > span {
-    display: inline-flex;
-    align-items: center;
-    margin: 0 7px;
-  }
-  svg {
-    display: inline-block;
-    height: 15px;
-    width: auto;
-    margin-right: 5px;
-  }
-`;
 
 const Footer = () => {
-  const [githubInfo, setGitHubInfo] = useState({
+  const [setGitHubInfo] = useState({
     stars: null,
     forks: null,
   });
@@ -70,7 +54,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/bchiang7/v4')
+    fetch('https://github.com/Sam120204/Jiayou-Personal-Web')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -103,35 +87,15 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
+          href="https://jiayouz.vercel.app/"
           target="_blank"
           rel="nofollow noopener noreferrer"
         >
-          <div>
-            Designed &amp; Built by Brittany Chiang<br></br>
-            Revised by Jiayou Zhong
-          </div>
-
-          {githubInfo.stars && githubInfo.forks && (
-            <StyledGitHubInfo>
-              <span>
-                <FormattedIcon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <FormattedIcon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </StyledGitHubInfo>
-          )}
+          <div>Copyright by Jiayou Zhong</div>
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
   );
-};
-
-Footer.propTypes = {
-  githubInfo: PropTypes.object,
 };
 
 export default Footer;
