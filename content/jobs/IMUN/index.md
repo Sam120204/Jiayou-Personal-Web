@@ -2,7 +2,7 @@
 date: '2023-05-11'
 title: 'Computer Science Instructor'
 company: 'Uforse Education'
-location: remote
+location: Toronto, CA
 range: 'May 2023 - Present'
 url: 'https://uforse.com/en'
 ---

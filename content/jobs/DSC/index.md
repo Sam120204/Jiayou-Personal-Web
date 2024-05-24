@@ -1,14 +1,20 @@
 ---
-date: '2023-10 - Now'
-title: 'Algorithm Developer'
-company: 'Laurier Fintech Club'
-location: remote
-range: 'October 2023 - Present'
-url: 'https://wlufintech.com/'
+date: '2024-5 - Now'
+title: 'Software Engineer'
+company: 'AKHNY SOLUTIONS INC.'
+location: Milton, CA
+range: 'May 2024 - Present'
+url: 'https://www.akhnysolutions.ca/'
 ---
 
-- Implemented the backend algorithm of OpenFintech, a stock trading simulation tool in Python, leveraging the
-  API for stock data integration, facilitating accurate backtesting of trading strategies
-- Boosted trading accuracy by refining trend-following stock trading algorithms to integrate data,
-  predicate stock price and generate various stock trend charts based on different requirements
-- Improved efficiency by 30% through structuring a robust SQLite3 database framework to manage user profiles, trade operations, and performance tracking
+- Develop custom data models and algorithms to apply to data sets.
+- Work with clients to identify opportunities from client firm databases to drive optimization and
+  improvement of product development, marketing techniques, and business strategies.
+- Develop custom web pages and UI elements using JavaScript, HTML and CSS.
+- Build UI/UX design elements from scratch using HTML and CSS.
+- Combine and onboard datasets, client information, and required data using the REACT
+  framework.
+- Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+- Develop company A/B testing framework and test model quality.
+- Develop processes and tools to monitor and analyze model performance and data accuracy.
+- Assist in developing applications for clients according to the business needs as required.
