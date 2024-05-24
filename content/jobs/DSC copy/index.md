@@ -1,5 +1,5 @@
 ---
-date: '2023-10 - Now'
+date: '2023-10-01'
 title: 'Algorithm Developer'
 company: 'Laurier Fintech Club'
 location: Waterloo, CA

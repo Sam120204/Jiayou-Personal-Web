@@ -1,9 +1,9 @@
 ---
-date: '2024-5 - Now'
+date: '2024-05-27'
 title: 'Software Engineer'
 company: 'AKHNY SOLUTIONS INC.'
 location: Milton, CA
-range: 'May 2024 - Present'
+range: 'May 2024 - August 2024'
 url: 'https://www.akhnysolutions.ca/'
 ---
 

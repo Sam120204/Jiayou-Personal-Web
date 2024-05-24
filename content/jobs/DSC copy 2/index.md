@@ -1,5 +1,5 @@
 ---
-date: '2024-5 - Now'
+date: '2024-05-17'
 title: 'Developer'
 company: 'WAT.ai Club'
 location: Waterloo, CA
